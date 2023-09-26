@@ -19,11 +19,9 @@ This project is an exercise to learn basic JavaScript, HTML, and CSS by creating
 
 This project includes two images that showcase the result of your Netflix page clone. You can view these images below:
 
-![Netflix Page Clone Image 1](./Screenshot%202023-09-26%20at%2016.52.09.png)
-_Description of the first image._
+![Netflix Page Clone Image 1](./Screenshot%202023-09-26%20at%2016.52.15.png)
 
-![Netflix Page Clone Image 2](./Screenshot%202023-09-26%20at%2016.52.15.png)
-_Description of the second image._
+![Netflix Page Clone Image 2](./Screenshot%202023-09-26%20at%2016.52.09.png)
 
 Feel free to explore the code and use it as a learning resource to improve your web development skills.
 
