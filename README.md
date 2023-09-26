@@ -13,11 +13,11 @@ This project is an exercise to learn basic JavaScript, HTML, and CSS by creating
 
 - The project is a clone of a Netflix webpage.
 - It was created to practice and learn the fundamentals of web development.
-- Responsive design ensures that the page adapts to various screen sizes.
+- Responsive design ensures that the page adapts to 3 screen sizes.
 
 ## Result Showcase
 
-This project includes two images that showcase the result of your Netflix page clone. You can view these images below:
+This project includes two images that showcase the result of the Netflix page clone.
 
 ![Netflix Page Clone Image 1](./Screenshot%202023-09-26%20at%2016.52.15.png)
 
